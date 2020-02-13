@@ -32,6 +32,15 @@
       "description": "ABC brand 50 cms girth jacket"
     }
   ],
+  "users" : [
+    {
+      "username": "admin",
+      "password": "admin"
+    }, {
+      "username": "user1",
+      "password": "user1" 
+    }
+  ]
   "profile": {
     "name": "bulkycode"
   }
