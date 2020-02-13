@@ -2,19 +2,19 @@
   "items": [
     {
       "id": 1,
-      "name": "laptop",
+      "name": "Laptop",
       "price": "$500",
       "category": "electronics",
       "description": "XYZ brand 17-inch screen laptop"
     },{
       "id": 2,
-      "name": "dining table",
+      "name": "Dining Table",
       "price": "$240",
       "category": "furniture",
       "description": "Hard wood dining table"
     },{
       "id": 3,
-      "name": "The Devotion of Suspect",
+      "name": "The Dune",
       "price": "$36.99",
       "category": "books",
       "description": "Hard bound book authored by Keigo Higoshani"
