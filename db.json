@@ -1,8 +1,35 @@
 {
-  "posts": [
+  "items": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "laptop",
+      "price": "$500",
+      "category": "electronics",
+      "description": "XYZ brand 17-inch screen laptop"
+    },{
+      "id": 2,
+      "name": "dining table",
+      "price": "$240",
+      "category": "furniture",
+      "description": "Hard wood dining table"
+    },{
+      "id": 3,
+      "name": "The Devotion of Suspect",
+      "price": "$36.99",
+      "category": "books",
+      "description": "Hard bound book authored by Keigo Higoshani"
+    },{
+      "id": 4,
+      "name": "Microwave Oven",
+      "price": "$799",
+      "category": "appliances",
+      "description": "PQR brand 240-watts oven"
+    },{
+      "id": 5,
+      "name": "Leather Jacket",
+      "price": "$549",
+      "category": "clothing",
+      "description": "ABC brand 50 cms girth jacket"
     }
   ],
   "profile": {
