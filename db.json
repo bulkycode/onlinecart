@@ -52,12 +52,12 @@
       "review": [
         {
           "id": 51,
-          "user" "user1",
+          "user": "user1",
           "comment": "good product",
           "rating": 5
         },{
           "id": 52,
-          "user" "user2",
+          "user": "user2",
           "comment": "average product",
           "rating": 3
         }
