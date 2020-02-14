@@ -67,12 +67,12 @@
       "review": [
         {
           "id": 11,
-          "user" "user1",
+          "user": "user1",
           "comment": "worth the money",
           "rating": 4
         },{
           "id": 12,
-          "user" "user2",
+          "user": "user2",
           "comment": "below par product",
           "rating": 2
         }
