@@ -48,7 +48,7 @@
   ],
   "reviews": [
     {
-      "itemId": 5
+      "itemId": 5,
       "review": [
         {
           "id": 51,
@@ -63,7 +63,7 @@
         }
       ]
     },{
-      "itemId": 1
+      "itemId": 1,
       "review": [
         {
           "id": 11,
