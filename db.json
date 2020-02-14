@@ -46,6 +46,39 @@
       "password": "user1" 
     }
   ],
+  "reviews": [
+    {
+      "itemId": 5
+      "review": [
+        {
+          "id": 51,
+          "user" "user1",
+          "comment": "good product",
+          "rating": 5
+        },{
+          "id": 52,
+          "user" "user2",
+          "comment": "average product",
+          "rating": 3
+        }
+      ]
+    },{
+      "itemId": 1
+      "review": [
+        {
+          "id": 11,
+          "user" "user1",
+          "comment": "worth the money",
+          "rating": 4
+        },{
+          "id": 12,
+          "user" "user2",
+          "comment": "below par product",
+          "rating": 2
+        }
+      ]
+    }
+  ],
   "profile": {
     "name": "bulkycode"
   }
