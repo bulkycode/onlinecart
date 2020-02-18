@@ -3,35 +3,35 @@
     {
       "id": 1,
       "name": "Laptop",
-      "price": "$500",
+      "price": 500,
       "category": "electronics",
       "description": "XYZ brand 17-inch laptop",
       "specifications": "Processor Name: Core i5, Hard Disk Size: 1 TB"
     },{
       "id": 2,
       "name": "Dining Table",
-      "price": "$240",
+      "price": 240,
       "category": "furniture",
       "description": "Hard wood dining table",
       "specifications": "Color: Antique Cherry, Item weight: 60kg"
     },{
       "id": 3,
       "name": "The Dune",
-      "price": "$36.99",
+      "price": 36.99,
       "category": "books",
       "description": "Hard bound book by Keigo Higoshani",
       "specifications": "Hardcover: 240 pages, Publisher: Simon & Schuster, Language: English"
     },{
       "id": 4,
       "name": "Microwave Oven",
-      "price": "$799",
+      "price": 799,
       "category": "appliances",
       "description": "PQR brand 2400-watts oven",
       "specifications": "Color: Black, Item weight: 20kg"
     },{
       "id": 5,
       "name": "Leather Jacket",
-      "price": "$549",
+      "price": 549,
       "category": "clothing",
       "description": "ABC brand 50 cms girth jacket",
       "specifications": "Fit Type: Regular Fit, Closure Type: Zip"
