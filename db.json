@@ -39,11 +39,17 @@
   ],
   "users" : [
     {
-      "username": "admin",
-      "password": "admin"
+      "username": "user2",
+      "password": "user2"
     }, {
       "username": "user1",
       "password": "user1" 
+    }
+  ],
+  "admin" : [
+    {
+      "username": "admin",
+      "password": "admin"
     }
   ],
   "reviews": [
